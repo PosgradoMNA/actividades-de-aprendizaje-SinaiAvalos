@@ -6,4 +6,5 @@ A01730466
 
 Aqui estarán mis actividades de cada semana
 
+Certificado Python for Data Science
 [Certificado_SinaiAvalosRivera_A01730466.pdf](https://github.com/PosgradoMNA/actividades-de-aprendizaje-SinaiAvalos/files/9612443/Certificado_SinaiAvalosRivera_A01730466.pdf)
